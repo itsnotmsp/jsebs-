@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UFC-8">
+        <title>html so thi mhr</title>
+    </head>
+<body>
+    <h1>html so thi mhr</h1>
+        <p> html ko blasjhfidsnfsdnisdcsajniensk </p>
+        <ul> 
+            <li> web broswer</li> 
+            <li>HTTP server</li>
+        </ul>
+        <P> html sdfbishdfsm</P>
+           <form>
+            <label for="name">your name</label>
+            <input type="text" id="name"> <br>
+            <label for="psw">password</label>
+            <input type="password" id="psw"><br>
+            <input type="submit" value="login">
+           </form>
+        <ol>
+            <li>html sjdfnjdn</li>
+            <li>CSS</li>
+               <ul><a href="https://codepen.io/pen/"
+                      title="search">Codepen</a></ul>
+        </ol>
+        <img src="https://eimaung.com/img/react.png" alt="React Book Cover">
+        <img src="https://eimaung.com/img/laravel.png" alt="Laravel Book Cover">
+        <img src="https://eimaung.com/img/api.jpg" alt="API Book Cover">
+        <table border="1" width="50%">
+            <thead>
+                  <td>no.</td>
+                  <td>name</td>
+                  <td>age</td>
+            </thead>
+        <tbody> 
+            <tr>
+                <td>1</td>
+                <td>alice</td>
+                <td>12</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>emily</td>
+                <td>15</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="2" aligin="right">total</th>
+                <td>2</td>
+            </tr>
+        </tfoot>
+        </table>
+        <p> Copyright &copy; min swan pyei &trade;</p>
+</body>
+</html>
